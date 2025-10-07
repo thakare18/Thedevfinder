@@ -52,4 +52,4 @@ Feel free to open an issue
 
 You can fork the repository, make changes, and create a pull request.
 
-For any direct feedback, contact me via email.
+For any direct feedback, contact me via email..
