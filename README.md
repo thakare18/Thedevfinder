@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 👉 [View on Netlify](https://thedevfinder.netlify.app)
-
+   Worked properly
 ---
 
 ## 🧠 Features
