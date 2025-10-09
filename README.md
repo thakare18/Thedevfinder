@@ -45,7 +45,7 @@ LinkedIn: https://www.linkedin.com/in/prathamesh-thakare
 
 ##  🤝Contribute / Feedback
 
-Contributions, suggestions, and feedback are always welcome!
+Contributions, suggestions, and feedback are always welcome!!
 
 Feel free to open an issue
  for bugs or feature requests.
