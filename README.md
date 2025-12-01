@@ -40,7 +40,7 @@ Email: prathameshthakare9677@gmail.com
 
 GitHub: https://github.com/thakare18
 
-LinkedIn: https://www.linkedin.com/in/prathamesh-thakare
+LinkedIn: www.linkedin.com/in/prathameshv-thakare
 
 ##  🤝Contribute / Feedback
 
