@@ -2,7 +2,6 @@
 
 **GitHub User Finder** is a sleek and responsive web app built with **HTML**, **Tailwind CSS**, and **JavaScript** that lets you search for any GitHub user and view their public profile details — including repositories, followers, and more — in real time.
 
-![GitHub User Finder Preview](./screenshots/S3.png)
 
 ---
 
